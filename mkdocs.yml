@@ -1,0 +1,8 @@
+site_name: Casa Docs
+
+pages:
+- [index.md, Welcome to Casa]
+- [get-started/customize.md, Getting Started, Customizing Your Site]
+- [get-started/property-set-up.md, Getting Started, Setting Up Your Property]
+- [bookings.md, Managing Bookings]
+
